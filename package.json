@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "drizzle-zod": "^0.8.2",
+    "zod": "^3.25.55"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.18"
+  }
+}
